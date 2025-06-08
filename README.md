@@ -2,27 +2,16 @@
 
 ## 🚀 About Me
 
-- 🎓 Student at *Zhejiang Sci-Tech University*, majoring in *Computer Science*
+- 🎓 Student at *Zhejiang Sci-Tech University*, majoring in *Computer Science and Technology*
 - 🔍 Passionate about *Server Operation and Maintenance*
-- 🌱 Currently learning *Computer Organization Principles*
 - 💡 Excited to contribute to open-source projects and collaborate with other developers
 - 🌐 Enthusiast in coding, eager to solve problems through code
 - ✍️ My experiences and insights in tech on my blog: [www.chenhaotian.top](http://www.chenhaotian.top)
 
 
-## 🛠 Skills
-
-- ~~Programming Languages: C++~~
-- ~~Frontend Development: HTML, CSS, JavaScript~~
-- ~~Backend Development: Node.js~~
-- ~~Databases: MySQL~~
-- ~~Tools & Technologies: Git, Docker, VS Code~~
-
 ## 🌐 How to Reach Me
 
 - 📧 Email: admin@vayki.com
-- 🐦 Twitter: N/A
-- 📷 Instagram: N/A
 
 ## 📊 GitHub Stats
 
