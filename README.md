@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Student at *Zhejiang Sci-Tech University*, majoring in *Computer Science and Technology*
+- 🎓 Student at *University of Bristol*, majoring in *Internet of Things with AI*
 - 🔍 Passionate about *Server Operation and Maintenance*
 - 💡 Excited to contribute to open-source projects and collaborate with other developers
 - 🌐 Enthusiast in coding, eager to solve problems through code
-- ✍️ My experiences and insights in tech on my blog: [www.chenhaotian.top](http://www.chenhaotian.top)
+- ✍️ My experiences and insights in tech on my blog: [chenhaotian.top](http://chenhaotian.top)
 
 
 ## 🌐 How to Reach Me
