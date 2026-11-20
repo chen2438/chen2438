@@ -3,10 +3,10 @@
 ## 🚀 About Me
 
 - 🎓 Student at *University of Bristol*, majoring in *Internet of Things with AI*
-- 🔍 Passionate about *Server Operation and Maintenance*
+- 🔍 Passionate about *AI Agent, Cloud Server, Stocks and ETFs*
 - 💡 Excited to contribute to open-source projects and collaborate with other developers
 - 🌐 Enthusiast in coding, eager to solve problems through code
-- ✍️ My experiences and insights in tech on my blog: [chenhaotian.top](http://chenhaotian.top)
+- ✍️ My experiences and insights in tech on my blog: [chenhaotian.top](https://chenhaotian.top)
 
 
 ## 🌐 How to Reach Me
@@ -19,6 +19,6 @@
 
 ## 🎯 Goals
 
-- 🚀 Become a proficient software developer
+- 🚀 Become a proficient developer
 - 🌟 Contribute more to open-source projects
 - 📚 Continuously learn and improve technical skills
